@@ -1,7 +1,6 @@
 """
-To Do
-- Random returns for Names
-- Split into species/type
+Coded By: Jeremy Collier
+Version: 1.0
 """
 import os, random, names
 
